@@ -6,3 +6,5 @@ Technologies used: python,selenium,beautifulsoup
 
 A JSON file is created by the scripts.
 
+note:scripts worked in may-2015.So they must be outdated now.
+
